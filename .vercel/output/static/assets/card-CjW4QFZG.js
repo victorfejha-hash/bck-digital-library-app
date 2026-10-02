@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-NZYk81nU.js";import{t}from"./utils-ukJxVj_U.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{className:t(`lift-card rounded-[var(--radius-xl)] border border-border bg-surface p-4 text-fg`,e),...r})}export{r as t};
