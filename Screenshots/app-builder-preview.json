@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BCK Digital Library",
+      "hasCanvas": false,
+      "bodyTextLen": 118,
+      "bodyTextHash": "4ffb6d5aaf98bf3f67a6be311b6c37a33b31c291d8f7541b6a461b5555f19b7e",
+      "bodyTextPrefix": "BCK BCK Digital Library Bishop Cipriano Kihangire Secondary Scho",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BCK Digital Library",
+      "hasCanvas": false,
+      "bodyTextLen": 118,
+      "bodyTextHash": "4ffb6d5aaf98bf3f67a6be311b6c37a33b31c291d8f7541b6a461b5555f19b7e",
+      "bodyTextPrefix": "BCK BCK Digital Library Bishop Cipriano Kihangire Secondary Scho",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
